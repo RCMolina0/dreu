@@ -1,12 +1,12 @@
 # Week 6
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 07-06 to 07-10
 
 ## Goals
-- Finish intergration my model into the codebase wrapping it with agent and policy classes
+- Fix all bugs with my model's integration in the code base
 - Find or collect a dataset to use every model we have added so far
 
-
+ 
 ## Approach and Implementation
 - I went through the logic of my classes and found some errors that fixed such as passing in eval arguments into the trianing method and other errors relating to that
 - I also fixed my training script so that it correctly reads everything from the config instead of me hard coding some of the values for testing purposes
